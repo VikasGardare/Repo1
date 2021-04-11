@@ -1,10 +1,2 @@
- Volume in drive C is Windows 8
- Volume Serial Number is C643-015C
-
- Directory of C:\Users\hp\Desktop\Selenuim_Labrabry\MyProjectGit
-
-04/11/2021  05:44 PM    <DIR>          .
-04/11/2021  05:44 PM    <DIR>          ..
-04/11/2021  05:44 PM                 0 index.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  154,697,027,584 bytes free
+hi all 
+Git Pulled successfully
